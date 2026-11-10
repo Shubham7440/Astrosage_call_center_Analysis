@@ -1,8 +1,8 @@
-**Astro\_Sage Call-Center Analysis**
+# **Astro\_Sage Call-Center Analysis**
 
 
 
-***About the Project***
+### ***About the Project***
 
 In this project, I evaluated call center operations, agent performance, and channel revenue across 8,300+ customer interaction records covering 34 days and 149 support agents. My goal was to identify operational bottlenecks, understand why customers were calling back, and figure out which communication channels were actually driving revenue.
 
@@ -12,7 +12,7 @@ I handled the entire pipeline in Excel—from cleaning the raw logs to building 
 
 
 
-***What I Discovered \& Business Impact***
+##### ***What I Discovered \& Business Impact***
 
 Found a Major Resolution Gap: I discovered that 1,275 out of 3,629 unique callers (35%) were repeat users. Even more concerning, these repeat callers accounted for 56.6% of our total call volume, signaling a clear problem with first-contact resolution (FCR) that was overloading our queue.
 
@@ -30,7 +30,7 @@ Proposed a ₹1 Crore Budget Allocation: Based on these findings, I put together
 
 
 
-***How I Built It***
+##### ***How I Built It***
 
 Data Preparation: Cleaned and structured multi-attribute interaction logs in Excel.
 
