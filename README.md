@@ -12,7 +12,7 @@ I handled the entire pipeline in Excel—from cleaning the raw logs to building 
 
 
 
-##### ***What I Discovered \& Business Impact***
+### ***What I Discovered \& Business Impact***
 
 Found a Major Resolution Gap: I discovered that 1,275 out of 3,629 unique callers (35%) were repeat users. Even more concerning, these repeat callers accounted for 56.6% of our total call volume, signaling a clear problem with first-contact resolution (FCR) that was overloading our queue.
 
@@ -30,7 +30,7 @@ Proposed a ₹1 Crore Budget Allocation: Based on these findings, I put together
 
 
 
-##### ***How I Built It***
+### ***How I Built It***
 
 Data Preparation: Cleaned and structured multi-attribute interaction logs in Excel.
 
